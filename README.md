@@ -1,193 +1,197 @@
+<a id="top"></a>
+
 <div align="center">
 
 <img src="./assets/header.svg" width="100%" alt="Felipe Rubel Borges — Senior QA Automation Engineer / SDET. Test strategy, API testing and continuous delivery." />
 
-<br />
+# Felipe Rubel Borges
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_conversar-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/feliperubelborges/)
-[![Email](https://img.shields.io/badge/Email-Contato_profissional-334155?style=for-the-badge)](mailto:felipe.rubel@hotmail.com)
-[![English](https://img.shields.io/badge/EN-Read_in_English-0F766E?style=for-the-badge)](#english)
+**Senior QA Automation Engineer / SDET**
 
-**Joinville, SC · Brasil · Experiência com equipes globais**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/feliperubelborges/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-334155?style=for-the-badge)](mailto:felipe.rubel@hotmail.com)
+[![Português](https://img.shields.io/badge/PT--BR-Resumo_em_portugues-0F766E?style=for-the-badge)](#portugues)
 
-[Sobre](#sobre) &nbsp; · &nbsp; [Competências](#competencias) &nbsp; · &nbsp; [Projetos](#projetos) &nbsp; · &nbsp; [Experiência](#experiencia) &nbsp; · &nbsp; [Formação](#formacao)
+**Joinville, SC · Brazil · Experience working with global teams**
+
+[About](#about) &nbsp; · &nbsp; [Skills](#skills) &nbsp; · &nbsp; [Projects](#projects) &nbsp; · &nbsp; [Experience](#experience) &nbsp; · &nbsp; [Education](#education)
 
 </div>
 
-<a id="sobre"></a>
+<a id="about"></a>
 
-## Qualidade do requisito à produção
+## Quality from requirements to production
 
-Sou **Senior QA Automation Engineer / SDET**, com atuação em qualidade de software desde **2015**. Trabalho com estratégia de testes, automação web e mobile, testes de APIs e validação de integrações, combinando testes manuais e automatizados conforme o risco e o contexto do produto.
+I'm a **Senior QA Automation Engineer / SDET** with experience in software quality since **2015**. I work on test strategy, web and mobile automation, API testing and integration validation, combining manual and automated testing based on product risks and context.
 
-Atualmente, atuo na **Amaris Consulting**, em projetos para a **Renault**, com foco em APIs, microsserviços, fluxos de eventos e automação com Playwright. Minha trajetória também inclui projetos para **ExxonMobil**, **Thomson Reuters** e **TOTVS Labs**, em ambientes ágeis e equipes multiculturais.
+I currently work at **Amaris Consulting**, providing QA and test automation consulting for **Renault**, with a focus on APIs, microservices, event flows and Playwright automation. My background also includes projects for **ExxonMobil**, **Thomson Reuters** and **TOTVS Labs**, working in agile environments and multicultural teams.
 
-Meu foco é construir automações sustentáveis, antecipar problemas e dar ao time evidências claras para decidir sobre a qualidade de cada entrega.
+I focus on building maintainable automation, identifying issues early and giving teams clear evidence to assess the quality of each release.
 
-<a id="competencias"></a>
+<a id="skills"></a>
 
-## Competências principais
+## Core skills
 
-| Frente | Tecnologias e atuação |
+| Area | Tools and experience |
 | :--- | :--- |
-| **Automação de testes** | Playwright · Cypress · Selenium · Java · JavaScript · TypeScript |
-| **APIs e integrações** | Postman · Bruno · testes de microsserviços · Kafka · fluxos orientados a eventos |
-| **Estratégia e execução** | Testes funcionais, exploratórios, de regressão e entre dispositivos · análise de requisitos · Shift Left |
-| **CI/CD e ambientes** | GitHub Actions · GitLab CI/CD · Azure DevOps · Jenkins · Docker |
-| **Dados e observabilidade** | SQL · PostgreSQL · MongoDB · NoSQL · Datadog · Dynatrace |
-| **Colaboração** | BDD/Cucumber · Jira · Xray · Azure Boards · Scrum · Kanban |
+| **Test automation** | Playwright · Cypress · Selenium · Java · JavaScript · TypeScript |
+| **APIs and integrations** | Postman · Bruno · microservices testing · Kafka · event-driven flows |
+| **Test strategy and execution** | Functional, exploratory, regression and cross-device testing · requirements analysis · Shift Left |
+| **CI/CD and environments** | GitHub Actions · GitLab CI/CD · Azure DevOps · Jenkins · Docker |
+| **Data and observability** | SQL · PostgreSQL · MongoDB · NoSQL · Datadog · Dynatrace |
+| **Collaboration** | BDD/Cucumber · Jira · Xray · Azure Boards · Scrum · Kanban |
 
 <details>
-<summary><strong>＋ Outras ferramentas e contextos de experiência</strong></summary>
+<summary><strong>More tools and areas of experience</strong></summary>
 
-- **Performance e carga:** k6 e JMeter.
-- **Mobile:** testes manuais e automação com TestProject, incluindo aplicações com reconhecimento facial.
-- **Cloud:** Azure e Google Cloud.
-- **IA no fluxo de QA:** GitHub Copilot para apoiar a criação de scripts e o desenho de casos de teste, com revisão técnica.
-- **Comunicação internacional:** reuniões e colaboração profissional em inglês.
+- **Performance and load testing:** k6 and JMeter.
+- **Mobile:** manual testing and automation with TestProject, including facial recognition applications.
+- **Cloud:** Azure and Google Cloud.
+- **AI-assisted QA:** GitHub Copilot to support script creation and test case design, with technical review.
+- **International collaboration:** professional meetings and teamwork in English.
 
 </details>
 
-### Boas práticas que orientam meu trabalho
+### Practices that guide my work
 
-- **Prevenção desde o início:** análise de requisitos e impactos, abordagem Shift Left e cenários alinhados aos riscos do negócio.
-- **Automação com manutenção em mente:** separação de responsabilidades, Page Objects quando adequados, comandos reutilizáveis e cenários legíveis com BDD.
-- **Cobertura em diferentes camadas:** combinar testes de API, integração e interface, além de exploração manual e validação de casos extremos.
-- **Feedback contínuo:** executar testes em pipelines e disponibilizar relatórios para facilitar a análise das falhas.
-- **Dados e ambientes controlados:** usar dados de teste apropriados, limpar recursos criados e manter credenciais fora do código.
-- **Diagnóstico com evidências:** investigar logs, requisições, eventos e dados para entender falhas e validar comportamentos.
+- **Prevent issues early:** analyze requirements and impacts, apply Shift Left testing and align scenarios with business risks.
+- **Design for maintenance:** separate responsibilities, use Page Objects where appropriate, build reusable commands and express behavior clearly with BDD.
+- **Test across layers:** combine API, integration and UI tests with manual exploration and edge case validation.
+- **Keep feedback continuous:** run tests in CI/CD pipelines and publish reports to support failure analysis.
+- **Control test data and environments:** use appropriate test data, clean up created resources and keep credentials out of source code.
+- **Investigate with evidence:** examine logs, requests, events and data to understand failures and validate behavior.
 
-<a id="projetos"></a>
+<a id="projects"></a>
 
-## Projetos em destaque
+## Featured projects
 
-Uma seleção de projetos públicos de estudo e avaliação técnica. Cada um permite explorar uma parte da minha prática em automação.
+A selection of public learning and technical assessment projects, each demonstrating part of my approach to test automation.
 
-### 01 · Automação web com Cypress e BDD
+### 01 · Web automation with Cypress and BDD
 
 **Cypress · JavaScript · Cucumber · Page Objects · GitHub Actions**
 
-Projeto de avaliação técnica NinjaOne com cenários de autenticação, criação de conta, recuperação de senha e solicitação de ativação. Inclui pipeline para execução dos testes e publicação de relatório HTML como artefato.
+NinjaOne technical assessment covering authentication, account creation, password recovery and activation requests. Includes a pipeline for running tests and publishing an HTML report as a workflow artifact.
 
-[Explorar projeto →](https://github.com/FelipeRubelBorges/NinjaOne) &nbsp; · &nbsp; [Ver cenários BDD](https://github.com/FelipeRubelBorges/NinjaOne/tree/main/cypress/e2e/features) &nbsp; · &nbsp; [Ver pipeline](https://github.com/FelipeRubelBorges/NinjaOne/blob/main/.github/workflows/main.yml)
+[Explore NinjaOne automation →](https://github.com/FelipeRubelBorges/NinjaOne) &nbsp; · &nbsp; [BDD scenarios](https://github.com/FelipeRubelBorges/NinjaOne/tree/main/cypress/e2e/features) &nbsp; · &nbsp; [CI workflow](https://github.com/FelipeRubelBorges/NinjaOne/blob/main/.github/workflows/main.yml)
 
 <details>
-<summary>Ver práticas demonstradas</summary>
+<summary>View Cypress and BDD practices</summary>
 
-- Page Objects para organizar interações e responsabilidades das páginas.
-- Cenários Gherkin para descrever os comportamentos testados.
-- Geração de dados com Faker e configuração de viewports.
-- Execução pelo GitHub Actions com credenciais fornecidas por secrets.
-- Relatórios HTML disponíveis como artefatos da execução.
+- Page Objects to organize page interactions and responsibilities.
+- Gherkin scenarios to describe the behavior under test.
+- Test data generation with Faker and viewport configuration for different screen sizes.
+- GitHub Actions execution with credentials supplied through secrets.
+- HTML test reports published as workflow artifacts.
 
 </details>
 
-### 02 · Testes em camadas para GitLab
+### 02 · Testing across layers with GitLab
 
 **Cypress · JavaScript · API · GUI · CLI**
 
-Projeto com cenários de criação de projetos e issues, login e organização de issues. Explora o uso conjunto de testes de API, interface e linha de comando.
+Scenarios for project and issue creation, login and issue organization. Combines API, UI and command-line testing.
 
-[Explorar projeto →](https://github.com/FelipeRubelBorges/Cypress-gitlab) &nbsp; · &nbsp; [Ver testes por camada](https://github.com/FelipeRubelBorges/Cypress-gitlab/tree/main/cypress/e2e) &nbsp; · &nbsp; [Ver comandos de API](https://github.com/FelipeRubelBorges/Cypress-gitlab/blob/main/cypress/support/api_commands.js)
+[Explore GitLab layered testing →](https://github.com/FelipeRubelBorges/Cypress-gitlab) &nbsp; · &nbsp; [Tests by layer](https://github.com/FelipeRubelBorges/Cypress-gitlab/tree/main/cypress/e2e) &nbsp; · &nbsp; [API commands](https://github.com/FelipeRubelBorges/Cypress-gitlab/blob/main/cypress/support/api_commands.js)
 
 <details>
-<summary>Ver práticas demonstradas</summary>
+<summary>View GitLab testing practices</summary>
 
-- Organização dos testes em API, GUI e CLI.
-- Comandos reutilizáveis para preparar dados e interagir com a API.
-- Token de acesso fornecido por variável de ambiente, sem registro nos logs das requisições.
-- Rastreamento e remoção dos projetos criados durante os testes.
+- Tests organized into API, GUI and CLI layers.
+- Reusable commands for test data setup and API interactions.
+- An access token supplied through an environment variable and excluded from request logs.
+- Tracking and cleanup of projects created during tests.
 
 </details>
 
-### 03 · Automação com Playwright
+### 03 · Test automation with Playwright
 
 **Playwright · JavaScript · Node.js · Faker · PostgreSQL**
 
-Projeto de testes do sistema Zombie Plus, desenvolvido durante o curso Playwright Zombie Edition. Reúne execução de testes em modo headless e consulta aos relatórios do Playwright.
+Automated tests for the Zombie Plus system, developed during the Playwright Zombie Edition course. Includes headless test execution and Playwright reporting.
 
-[Explorar projeto →](https://github.com/FelipeRubelBorges/playwright) &nbsp; · &nbsp; [Ver documentação e execução](https://github.com/FelipeRubelBorges/playwright#readme)
+[Explore Playwright tests →](https://github.com/FelipeRubelBorges/playwright) &nbsp; · &nbsp; [Documentation and setup](https://github.com/FelipeRubelBorges/playwright#readme)
 
 <details>
-<summary>Ver tecnologias e execução</summary>
+<summary>Explore the tools and execution commands</summary>
 
-- Playwright com JavaScript e Node.js.
-- Faker e PostgreSQL no contexto do projeto.
-- Execução com `npx playwright test`.
-- Consulta ao relatório com `npx playwright show-report`.
+- Playwright with JavaScript and Node.js.
+- Faker and PostgreSQL as part of the project stack.
+- Run tests with `npx playwright test`.
+- View the report with `npx playwright show-report`.
 
 </details>
 
-[Ver todos os repositórios públicos →](https://github.com/FelipeRubelBorges?tab=repositories&type=public)
+[Browse all public repositories →](https://github.com/FelipeRubelBorges?tab=repositories&type=public)
 
-<a id="experiencia"></a>
+<a id="experience"></a>
 
-## Experiência profissional
+## Professional experience
 
 **Amaris Consulting · Senior Software Quality Assurance Engineer**  
-Jun. 2025 – atual · Consultoria para Renault
+Jun 2025 – Present · Consulting for Renault
 
-Testes manuais e automatizados de APIs, aplicações web/mobile e integrações. Automação com Playwright, validação de microsserviços e fluxos de eventos, análise com Dynatrace e apoio à validação de pipelines GitLab CI/CD. Trabalho com SQL/NoSQL, Jira/Xray e equipes internacionais.
+Manual and automated testing of APIs, web/mobile applications and integrations. Playwright automation, microservices and event flow validation, Dynatrace analysis and support for GitLab CI/CD pipeline validation. Work with SQL/NoSQL, Jira/Xray and international teams.
 
 <details>
-<summary><strong>Expandir trajetória anterior · 2015–2025</strong></summary>
+<summary><strong>Explore previous roles · 2015–2025</strong></summary>
 
 ### Pantheon Inc · Senior Software Quality Assurance Engineer
 
-**Mai. 2022 – mai. 2025 · Consultoria para ExxonMobil**
+**May 2022 – May 2025 · Consulting for ExxonMobil**
 
-Testes de APIs e regressão com Postman e Datadog, validação de microsserviços Spring Boot e integrações via Kafka. Atuação com Azure DevOps, GitHub Actions, MongoDB e PostgreSQL em equipe global.
+API and regression testing with Postman and Datadog, validation of Spring Boot microservices and Kafka integrations. Work with Azure DevOps, GitHub Actions, MongoDB and PostgreSQL in a global team.
 
 ### Vetor IT · Software Quality Assurance Analyst
 
-**Fev. 2021 – jan. 2022 · Consultoria para Thomson Reuters**
+**Feb 2021 – Jan 2022 · Consulting for Thomson Reuters**
 
-Jobs e pipelines com Jenkins, consultas e manipulação de dados com SQL, containers Docker e análise de logs com Datadog. Testes funcionais e manuais e validação de requisitos.
+Jenkins jobs and pipelines, SQL queries and data manipulation, Docker containers and Datadog log analysis. Functional and manual testing and requirements validation.
 
 ### TOTVS Labs · Software Quality Assurance Analyst
 
-**Jan. 2020 – jan. 2021**
+**Jan 2020 – Jan 2021**
 
-Qualidade de aplicações com reconhecimento facial, incluindo testes funcionais, testes mobile e automação com TestProject. Colaboração com Product Owner e desenvolvimento na definição do backlog e treinamento de consultores e suporte.
+Quality assurance for facial recognition applications, including functional and mobile testing and TestProject automation. Collaboration with the Product Owner and development team on backlog definition, plus training for consultants and support teams.
 
 ### Thomson Reuters Brazil · Software Quality Assurance Analyst
 
-**Jan. 2015 – jan. 2020**
+**Jan 2015 – Jan 2020**
 
-Testes de soluções fiscais e contábeis MasterSAFDW e TAXONE em desktop e web. Automação com Selenium, BDD/Cucumber, testes de carga com JMeter e uso de SQL, Jenkins e Docker.
+Testing of MasterSAFDW and TAXONE tax and accounting solutions across desktop and web. Selenium automation, BDD/Cucumber, JMeter load testing and work with SQL, Jenkins and Docker.
 
 </details>
 
-<a id="formacao"></a>
+<a id="education"></a>
 
-## Formação e certificações
+## Education and certifications
 
-| Formação | Instituição | Período |
+| Qualification | Institution | Period |
 | :--- | :--- | :--- |
-| **MBA em Liderança, Gestão de Equipes e Produtividade** | PUCRS | 2024–2025 |
-| **Bacharelado em Sistemas de Informação** | Católica de Santa Catarina | 2014–2018 |
+| **MBA (postgraduate specialization) in Leadership, Team Management and Productivity** | PUCRS — Pontifical Catholic University of Rio Grande do Sul | 2024–2025 |
+| **Bachelor's degree in Information Systems** | Catholic University of Santa Catarina | 2014–2018 |
 
 **BSTQB · Certified Tester, Foundation Level (CTFL)**  
 **BSTQB · Certified Tester, Agile Tester (CTFL-AT)**
 
-**Idiomas:** português nativo · inglês nativo/bilíngue · espanhol profissional.
+**Languages:** Portuguese — native · English — native/bilingual proficiency · Spanish — professional working proficiency.
 
-<a id="english"></a>
+<a id="portugues"></a>
 
-<details>
-<summary><strong>EN · Professional summary in English</strong></summary>
+<details open>
+<summary><strong>PT-BR · Expandir resumo profissional em português</strong></summary>
 
 ### Felipe Rubel Borges · Senior QA Automation Engineer / SDET
 
-Based in Joinville, Brazil, I have worked in software quality since 2015, combining test strategy, manual and automated testing, API validation and CI/CD. I collaborate with global teams and conduct professional meetings in English.
+Sou **Senior QA Automation Engineer / SDET**, baseado em Joinville, Brasil, com atuação em qualidade de software desde **2015**. Combino estratégia de testes, testes manuais e automatizados, validação de APIs e CI/CD. Colaboro com equipes globais e participo de reuniões profissionais em inglês.
 
-I currently work at **Amaris Consulting**, providing QA and test automation consulting for **Renault**. My previous experience includes consulting for **ExxonMobil** through Pantheon Inc, **Thomson Reuters** through Vetor IT, and roles at **TOTVS Labs** and **Thomson Reuters Brazil**.
+Atualmente, trabalho na **Amaris Consulting**, prestando consultoria em qualidade de software e automação de testes para a **Renault**. Minha trajetória inclui projetos para a **ExxonMobil**, pela Pantheon Inc, e para a **Thomson Reuters**, pela Vetor IT, além de posições na **TOTVS Labs** e na **Thomson Reuters Brazil**.
 
-My core tools include **Playwright, Cypress, Selenium, Java, JavaScript, TypeScript, Postman and Bruno**. My experience also covers microservices, Kafka integrations, SQL/NoSQL, Docker, CI/CD, Datadog and Dynatrace.
+Minhas principais ferramentas incluem **Playwright, Cypress, Selenium, Java, JavaScript, TypeScript, Postman e Bruno**. Também tenho experiência com microsserviços, integrações via Kafka, SQL/NoSQL, Docker, pipelines de CI/CD, Datadog e Dynatrace.
 
-I focus on maintainable automation, early feedback, risk-informed test coverage and evidence-based investigation. I hold **CTFL and CTFL-AT certifications**, a bachelor's degree in Information Systems and an MBA in Leadership, Team Management and Productivity.
+Meu foco é construir automações sustentáveis, antecipar feedback, orientar a cobertura pelos riscos e investigar falhas com evidências. Possuo as certificações **CTFL e CTFL-AT**, bacharelado em **Sistemas de Informação** e MBA em **Liderança, Gestão de Equipes e Produtividade**.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/feliperubelborges/) · [Email me](mailto:felipe.rubel@hotmail.com)
+[Conversar pelo LinkedIn](https://www.linkedin.com/in/feliperubelborges/) · [Enviar e-mail](mailto:felipe.rubel@hotmail.com)
 
 </details>
 
@@ -195,7 +199,7 @@ I focus on maintainable automation, early feedback, risk-informed test coverage 
 
 <div align="center">
 
-**Vamos conversar sobre qualidade de software?**  
-[LinkedIn](https://www.linkedin.com/in/feliperubelborges/) &nbsp; · &nbsp; [E-mail](mailto:felipe.rubel@hotmail.com) &nbsp; · &nbsp; [Voltar ao início ↑](#sobre)
+**Let's talk about software quality.**  
+[LinkedIn](https://www.linkedin.com/in/feliperubelborges/) &nbsp; · &nbsp; [Email](mailto:felipe.rubel@hotmail.com) &nbsp; · &nbsp; [Back to top ↑](#top)
 
 </div>
