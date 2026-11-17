@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">Felipe Rubel Borges — Senior QA Automation Engineer / SDET</title>
+  <desc id="desc">Test strategy, API testing and continuous delivery. A dark navy banner with teal accents and a decorative connected test flow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#142a3d"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#7dd3fc"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#94a3b8" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="350" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="350" rx="20" fill="url(#grid)"/>
+  <rect x="54" y="55" width="45" height="4" rx="2" fill="url(#accent)"/>
+  <text x="54" y="94" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3" fill="#5eead4">QUALITY ENGINEERING</text>
+  <text x="51" y="158" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-1" fill="#f8fafc">Felipe Rubel Borges</text>
+  <text x="54" y="202" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#cbd5e1">Senior QA Automation Engineer / SDET</text>
+  <text x="54" y="252" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#94a3b8">TEST STRATEGY</text>
+  <circle cx="207" cy="247" r="3" fill="#2dd4bf"/>
+  <text x="224" y="252" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#94a3b8">API TESTING</text>
+  <circle cx="347" cy="247" r="3" fill="#2dd4bf"/>
+  <text x="364" y="252" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#94a3b8">CI/CD</text>
+  <g transform="translate(826 79)">
+    <rect width="315" height="194" rx="14" fill="#0b1220" stroke="#284455"/>
+    <circle cx="21" cy="22" r="4" fill="#3e6172"/><circle cx="36" cy="22" r="4" fill="#3e6172"/><circle cx="51" cy="22" r="4" fill="#3e6172"/>
+    <path d="M0 43H315" stroke="#284455"/>
+    <text x="23" y="77" font-family="monospace" font-size="12" letter-spacing="1" fill="#94a3b8">QUALITY THROUGHOUT DELIVERY</text>
+    <path d="M50 116H265" stroke="#2dd4bf" stroke-opacity=".5" stroke-width="2"/>
+    <g fill="#142a3d" stroke="#5eead4" stroke-width="2"><circle cx="50" cy="116" r="10"/><circle cx="157" cy="116" r="10"/><circle cx="265" cy="116" r="10"/></g>
+    <g fill="#cbd5e1" font-family="monospace" font-size="12" text-anchor="middle"><text x="50" y="151">PLAN</text><text x="157" y="151">TEST</text><text x="265" y="151">OBSERVE</text></g>
+  </g>
+  <rect x="54" y="303" width="1087" height="1" fill="#284455"/>
+</svg>
