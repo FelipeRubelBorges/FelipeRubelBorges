@@ -71,9 +71,9 @@ A selection of public learning and technical assessment projects, each demonstra
 
 **Cypress · JavaScript · Cucumber · Page Objects · GitHub Actions**
 
-NinjaOne technical assessment covering authentication, account creation, password recovery and activation requests. Includes a pipeline for running tests and publishing an HTML report as a workflow artifact.
+Project covering authentication, account creation, password recovery and activation requests. Includes a pipeline for running tests and publishing an HTML report as a workflow artifact.
 
-[Explore NinjaOne automation →](https://github.com/FelipeRubelBorges/NinjaOne) &nbsp; · &nbsp; [BDD scenarios](https://github.com/FelipeRubelBorges/NinjaOne/tree/main/cypress/e2e/features) &nbsp; · &nbsp; [CI workflow](https://github.com/FelipeRubelBorges/NinjaOne/blob/main/.github/workflows/main.yml)
+[Explore Project automation →](https://github.com/FelipeRubelBorges/NinjaOne) &nbsp; · &nbsp; [BDD scenarios](https://github.com/FelipeRubelBorges/NinjaOne/tree/main/cypress/e2e/features) &nbsp; · &nbsp; [CI workflow](https://github.com/FelipeRubelBorges/NinjaOne/blob/main/.github/workflows/main.yml)
 
 <details>
 <summary>View Cypress and BDD practices</summary>
